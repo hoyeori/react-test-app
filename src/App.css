@@ -1,0 +1,12 @@
+button {
+  all: unset;
+  background-color: skyblue;
+}
+
+form {
+  -webkit-appearance: none;
+}
+
+.onoff {
+  background-color: skyblue;
+}
